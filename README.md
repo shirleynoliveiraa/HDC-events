@@ -1,3 +1,50 @@
+# HDC-events
+
+## 📖 About  
+HDC is an application for events, creating, attending, editing, deleting and so on.
+Here are some of the topics covered in this project: install Laravel, creating routes and views, getting to know blade (Laravel's template engine), adding static files, creating layouts with blade, retrieving parameters from the url, creating controllers (the logic of the application is in the controlles, we have a various amount of methods called actions wich will indicate what the method is responsible for, for instance deleting, adding, updating, storing among others), creating the connection with database, creating the migrations, using flash messages to sinalize fail or success, adding JSON data into the database, adding images into the database, searching with Eloquent(Laravel's ORM), authenticating users using Jestream and Livewire, relationships one to many and many to many, among some others.
+
+
+## 🚀 Tools and technologies
+- **PHP 7**
+- **Laravel 8**
+- **HTML**
+- **CSS3**
+- **Boostrtrap**
+- **Jetstream**
+- **Livewire**
+- **MySQL** para manipulação de dados.
+
+
+## 🖥️ Demo
+
+
+https://user-images.githubusercontent.com/73192272/195738050-9697fa47-6474-437a-8b7c-ce19b216b2eb.mp4
+
+
+
+
+---
+⌨️ with ❤️ by [shirleynoliveiraa](https://github.com/shirleynoliveiraa) 😊
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
